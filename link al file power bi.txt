@@ -1,2 +1,6 @@
 link al file power bi
 https://drive.google.com/file/d/1lCkuJVU5i2jNy6oG_IoXBUmHRFY0YVhD/view?usp=drive_link
+link al dataset reddit 
+https://docs.google.com/spreadsheets/d/1xpRjJcOGZbaJCs0ElV2CAMZgJw3UisUK/edit?usp=drive_link&ouid=104191399362358659768&rtpof=true&sd=true
+link al dataset morti e feriti
+https://docs.google.com/spreadsheets/d/1TNL1kx13vPC6KmpB8CFeEqjjj-ea7DP6X4BFOGsD_ew/edit?usp=drive_link
